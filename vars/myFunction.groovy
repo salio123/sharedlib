@@ -3,7 +3,7 @@ def call(name) {
     echo "Hello ${name} from myFunction!"
     
 }
-def call(movie) {
-    echo " fav movie is ${movie} "
+def call(movie, hero) {
+    echo " fav movie is ${movie} and hero is ${hero}"
 }
 
